@@ -1,0 +1,75 @@
+.quizlet-tools-default body,
+.quizlet-tools-default .SetPage .SetPage-setContentWrapper {
+  color: rgb(205, 205, 205);
+  background: rgb(34, 34, 34) !important;
+}
+
+.quizlet-tools-default button,
+.quizlet-tools-default .SiteHeader,
+.quizlet-tools-default .SiteFooter,
+.quizlet-tools-default .SiteHeaderChiclet,
+.quizlet-tools-default .UIDropdown,
+.quizlet-tools-default button,
+.quizlet-tools-default .SiteHeaderChiclet,
+.quizlet-tools-default .UIDropdown,
+.quizlet-tools-default .SetPage-setDetailsInfoWrapper,
+.quizlet-tools-default .SetPage-setDetailsInfo,
+.quizlet-tools-default .SetPage-setInfo,
+.quizlet-tools-default .SetPage-setLinksWrapper,
+.quizlet-tools-default .SetPageWrapper-contentContainerWithSeparateAdz {
+  background: rgb(34, 34, 34) !important;
+}
+
+.quizlet-tools-default .SetPageTerm-inner,
+.quizlet-tools-default .CardsItemInner,
+.quizlet-tools-default .UIBaseCard--noLinkBox {
+  background: rgb(24, 24, 24) !important;
+}
+
+.quizlet-tools-default a,
+.quizlet-tools-default span,
+.quizlet-tools-default button,
+.quizlet-tools-default .UILink,
+.quizlet-tools-default .UserLink-username,
+.quizlet-tools-default .SetPageTerm-definitionText,
+.quizlet-tools-default .SetPageTerm-wordText,
+.quizlet-tools-default .SetPageModeButton-modeName {
+  color: rgb(205, 205, 205) !important;
+}
+
+.quizlet-tools-default button,
+.quizlet-tools-default .UIDropdown,
+.quizlet-tools-default .SetPageTerm-inner,
+.quizlet-tools-default .UIBaseCard--noLinkBox {
+  border: 1px solid rgb(52, 52, 52) !important;
+}
+
+.quizlet-tools-default .SetPage-setDetailsTermsWrapper,
+.quizlet-tools-default .SetPage-setIntroWrapper,
+.quizlet-tools-default .SetPageModeButton {
+  background: rgb(34, 34, 34) !important;
+}
+
+.quizlet-tools-default .SetPageTerm-sideContent {
+  border-color: rgb(52, 52, 52) !important;
+}
+.quizlet-tools-default .SiteHeader,
+.quizlet-tools-default .SetPage-setDetailsInfoWrapper {
+  border-bottom: 1px solid rgb(52, 52, 52) !important;
+}
+
+.quizlet-tools-default .SetPage-setDetailsInfoWrapper,
+.quizlet-tools-default .SiteFooter {
+  border-top: 1px solid rgb(52, 52, 52) !important;
+}
+
+.quizlet-tools-default .UIButton--borderless {
+  color: inherit !important;
+}
+.quizlet-tools-default .UIButton--borderless {
+  background: unset !important;
+}
+.quizlet-tools-default .SetPage-setInfo,
+.quizlet-tools-default .UIButton--borderless {
+  border: none !important;
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Quizlet Tools",
+    "description": "Dark theme, filter by answer and more.",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [
+        "tabs",
+        "storage",
+        "http://*/",
+        "https://*/"
+    ],
+    "browser_action": {
+        "default_title": "Quizlet Tools",
+        "default_icon": "images/icon.png",
+        "default_popup": "html/popup.html"
+    },
+    "content_scripts": [{
+        "js": [ "js/content.js" ],
+        "matches": [ "https://quizlet.com/*" ]
+    }],
+    "background": { "scripts": ["js/background.js"] },
+    "web_accessible_resources": [ "js/*", "html/*", "css/*", "images/*" ]
+}
