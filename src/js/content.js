@@ -1,7 +1,5 @@
 (function () {
   console.log("CONTENT!");
-  // your page initialization code here
-  // the DOM will be available here
   receivedMessage(`changed_theme`, function (message) {
     const theme = message.split("_")[1];
     const root = document.getElementsByTagName("html")[0];
